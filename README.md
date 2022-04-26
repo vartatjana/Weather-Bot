@@ -1,2 +1,8 @@
-# Weather-Bot
-Telegram-bot for finding the weather forecast
+# Инструкция по использованию бота:
+1) Скопировать код в среду разработки
+2) Импортировать требуемые пакеты: 
+> telebot
+> pyTelegramBotAPI
+> geopy  
+3) Ссылка на бота: @weather_MIPT_thebest_bot 
+4) Бот поздоровается и расскажет фунционал 
